@@ -1,18 +1,18 @@
 # DESCRIPTION OF EACH FILE:
 
 There are 12 files in this asignment folder.
- <b>BooleanOperator.py</b>: defines and, or and not operator for list data structure.
-<b>Conversion.py</b>: defines infix to postfix conversion of boolean expressions
-<b>ExtendedBinaryRetrieval.py</b>: defines the extended binary retrieval model (phrase query with biword index).
-<b>InverseIndex.py</b>: defines basic inverted indexing
-<b>Lemmatizer.py</b>: defines tokenization and lemmatization of text
-<b>main.py</b>: main program. This is where from where you can test this assignment.
-<b>Query.py</b>: defines query processing (both normal and biword query processing)
-<b>README.md</b>: this file
-<b>Stack.py</b>: defines different operations of stack data structure
-<b>PositionalIndex.py</b>: defines positional indexing
-<b>SoundexIndex.py</b>: defines soundex indexing
-<b>Soundex.py</b>: defines soundex algorithm
+- <b>BooleanOperator.py</b>: defines and, or and not operator for list data structure.
+- <b>Conversion.py</b>: defines infix to postfix conversion of boolean expressions
+- <b>ExtendedBinaryRetrieval.py</b>: defines the extended binary retrieval model (phrase query with biword index).
+- <b>InverseIndex.py</b>: defines basic inverted indexing
+- <b>Lemmatizer.py</b>: defines tokenization and lemmatization of text
+- <b>main.py</b>: main program. This is where from where you can test this assignment.
+- <b>Query.py</b>: defines query processing (both normal and biword query processing)
+- <b>README.md</b>: this file
+- <b>Stack.py</b>: defines different operations of stack data structure
+- <b>PositionalIndex.py</b>: defines positional indexing
+- <b>SoundexIndex.py</b>: defines soundex indexing
+- <b>Soundex.py</b>: defines soundex algorithm
 
 - ExtendedBinaryRetrieval.py extends InverseIndex.py
 
